@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ISPP35\\LabWork15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp35\\labwork15\\labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp35\\labwork15\\labwork15\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp35\\labwork15\\labwork15\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp35\\labwork15\\labwork15\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp35\\labwork15\\labwork15\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE68DD39-7F82-483D-BAB5-3A24D8090049}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1111,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorRepository.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\VisitorRepository.cs",
+              "RelativeDocumentMoniker": "LabWork15\\VisitorRepository.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\VisitorRepository.cs",
+              "RelativeToolTip": "LabWork15\\VisitorRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:27:05.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "LabWork15\\GenreRepository.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\GenreRepository.cs",
+              "RelativeToolTip": "LabWork15\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:31:39.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 785,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\Visitor.cs",
+              "RelativeDocumentMoniker": "LabWork15\\Visitor.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\Visitor.cs",
+              "RelativeToolTip": "LabWork15\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:52:00.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "LabWork15\\CategoryRepository.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\CategoryRepository.cs",
+              "RelativeToolTip": "LabWork15\\CategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:48:02.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork15\\Program.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\LabWork15\\LabWork15\\Program.cs",
+              "RelativeToolTip": "LabWork15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:42:55.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabWorkLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:LabWorkLibrary.Maths">
+            <summary>
+            Содержит различные методы вычисления хихихиха
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.Maths.BINARY_FACTOR">
+            <summary>
+            Константа
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Add(System.Int32,System.Int32)">
+            <summary>
+            Выводит сумму двух чисел
+            </summary>
+            <param name="a">Первое слагаемое</param>
+            <param name="b">Второе слагаемое</param>
+            <returns>Сумму двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Выводит разность двух чисел
+            </summary>
+            <param name="a">Уменьшаемое число</param>
+            <param name="b">Вычитаемое число</param>
+            <returns>Разность двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Выводит произведение двух чисел
+            </summary>
+            <param name="a">Первый множитель</param>
+            <param name="b">Второй множитель</param>
+            <returns>Произведение двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Divide(System.Int32,System.Int32)">
+            <summary>
+            Выводит частное двух чисел
+            </summary>
+            <param name="a">Делимое</param>
+            <param name="b">Делитель</param>
+            <returns>Частное двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.RectangleArea(System.Int32,System.Int32)">
+            <summary>
+            Выводит площадь прямоугольника
+            </summary>
+            <param name="a">Сторона A</param>
+            <param name="b">Сторона B</param>
+            <returns>Площадь прямоугольника</returns>
+        </member>
+    </members>
+</doc>

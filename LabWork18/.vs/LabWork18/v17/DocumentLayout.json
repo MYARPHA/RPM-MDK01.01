@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kompu\\Desktop\\ISPP35\\LabWork18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315CDC2A-8345-4BC2-8824-9DC3EE04CEE2}|LabWork18\\LabWork18.csproj|c:\\users\\kompu\\desktop\\ispp35\\labwork18\\labwork18\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{315CDC2A-8345-4BC2-8824-9DC3EE04CEE2}|LabWork18\\LabWork18.csproj|solutionrelative:labwork18\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315CDC2A-8345-4BC2-8824-9DC3EE04CEE2}|LabWork18\\LabWork18.csproj|c:\\users\\kompu\\desktop\\ispp35\\labwork18\\labwork18\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315CDC2A-8345-4BC2-8824-9DC3EE04CEE2}|LabWork18\\LabWork18.csproj|solutionrelative:labwork18\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315CDC2A-8345-4BC2-8824-9DC3EE04CEE2}|LabWork18\\LabWork18.csproj|c:\\users\\kompu\\desktop\\ispp35\\labwork18\\labwork18\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315CDC2A-8345-4BC2-8824-9DC3EE04CEE2}|LabWork18\\LabWork18.csproj|solutionrelative:labwork18\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 492,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\kompu\\Desktop\\ISPP35\\LabWork18\\LabWork18\\GameService.cs",
+              "RelativeDocumentMoniker": "LabWork18\\GameService.cs",
+              "ToolTip": "C:\\Users\\kompu\\Desktop\\ISPP35\\LabWork18\\LabWork18\\GameService.cs",
+              "RelativeToolTip": "LabWork18\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:07:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kompu\\Desktop\\ISPP35\\LabWork18\\LabWork18\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork18\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kompu\\Desktop\\ISPP35\\LabWork18\\LabWork18\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork18\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T08:48:35.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kompu\\Desktop\\ISPP35\\LabWork18\\LabWork18\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork18\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kompu\\Desktop\\ISPP35\\LabWork18\\LabWork18\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork18\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:48:35.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Task1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+        <Button x:Name="Task1Button" Content="Задание 1" Width="200" Click="Task1Button_Click"/>
+        <Button x:Name="Task2Button" Content="Задание 2" Width="200" Click="Task2Button_Click"/>
+        <Button x:Name="Task3Button" Content="Задание 3" Width="200" Click="Task3Button_Click"/>
+        <Button x:Name="Task4Button" Content="Задание 4" Width="200" Click="Task4Button_Click"/>
+        <Button x:Name="Task5Button" Content="Задание 5" Width="200" Click="Task5Button_Click"/>
+    </StackPanel>
+</Window>

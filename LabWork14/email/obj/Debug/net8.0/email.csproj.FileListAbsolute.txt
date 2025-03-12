@@ -1,0 +1,14 @@
+V:\ispp35\LabWork14\email\bin\Debug\net8.0\email.exe
+V:\ispp35\LabWork14\email\bin\Debug\net8.0\email.deps.json
+V:\ispp35\LabWork14\email\bin\Debug\net8.0\email.runtimeconfig.json
+V:\ispp35\LabWork14\email\bin\Debug\net8.0\email.dll
+V:\ispp35\LabWork14\email\bin\Debug\net8.0\email.pdb
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\email.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\email.AssemblyInfoInputs.cache
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\email.AssemblyInfo.cs
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\email.csproj.CoreCompileInputs.cache
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\email.dll
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\refint\email.dll
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\email.pdb
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\email.genruntimeconfig.cache
+V:\ispp35\LabWork14\email\obj\Debug\net8.0\ref\email.dll

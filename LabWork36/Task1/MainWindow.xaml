@@ -1,0 +1,17 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="Window_Closing" x:Name="OriginalWindow">
+    <StackPanel>
+        <Menu Height="Auto" VerticalAlignment="Top" >
+            <MenuItem Header="Файл">
+                <MenuItem Header="Новое окно" Click="NewWindowItem_Click"/>
+            </MenuItem>
+        </Menu>
+        <TextBox Height="400" AcceptsReturn="True"/>
+    </StackPanel>
+</Window>

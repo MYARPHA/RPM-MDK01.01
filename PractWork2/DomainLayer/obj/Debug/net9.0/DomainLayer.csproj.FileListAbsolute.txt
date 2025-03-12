@@ -1,0 +1,11 @@
+C:\Temp\ISPP35\PractWork2\DomainLayer\bin\Debug\net9.0\DomainLayer.deps.json
+C:\Temp\ISPP35\PractWork2\DomainLayer\bin\Debug\net9.0\DomainLayer.dll
+C:\Temp\ISPP35\PractWork2\DomainLayer\bin\Debug\net9.0\DomainLayer.pdb
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfo.cs
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\DomainLayer.dll
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
+C:\Temp\ISPP35\PractWork2\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll

@@ -1,0 +1,14 @@
+V:\ispp35\LabWork14\space\bin\Debug\net8.0\space.exe
+V:\ispp35\LabWork14\space\bin\Debug\net8.0\space.deps.json
+V:\ispp35\LabWork14\space\bin\Debug\net8.0\space.runtimeconfig.json
+V:\ispp35\LabWork14\space\bin\Debug\net8.0\space.dll
+V:\ispp35\LabWork14\space\bin\Debug\net8.0\space.pdb
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\space.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\space.AssemblyInfoInputs.cache
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\space.AssemblyInfo.cs
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\space.csproj.CoreCompileInputs.cache
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\space.dll
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\refint\space.dll
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\space.pdb
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\space.genruntimeconfig.cache
+V:\ispp35\LabWork14\space\obj\Debug\net8.0\ref\space.dll

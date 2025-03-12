@@ -1,0 +1,56 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="Aqua"/>
+                <Setter Property="Height" Value="20"/>
+                <Setter Property="Width" Value="100"/>
+                <Setter Property="Margin" Value="0 5 5 5"/>
+                <Setter Property="VerticalAlignment" Value="Top"/>
+                <Setter Property="FontFamily" Value="Fonts/#Cormorant Garamond"/>
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="Foreground" Value="#FFFF00F5"/>
+                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="FontFamily" Value="Fonts/#Cormorant Garamond"/>
+            </Style>
+
+            <Style TargetType="TextBox">
+                <Setter Property="MaxLength" Value="10"/>
+                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="FontFamily" Value="Fonts/#Cormorant Garamond"/>
+            </Style>
+        </Grid.Resources>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Логин"/>
+        <Label Grid.Row="1" Content="Пароль" />
+        <TextBox Grid.Column="1" MaxLength="10"/>
+        <TextBox Grid.Column="1" Grid.Row="1" MaxLength="10"/>
+        <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Horizontal">
+            <Button Content="ОК"/>
+            <Button Content="Отмена"/>
+        </StackPanel>
+        <Image Source="Images/ff86d0c3de308fe23b71ad14e3aa7c82.jpg" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="-0.165,0.467">
+            <Image.Effect>
+                <BlurEffect/>
+            </Image.Effect>
+        </Image>
+    </Grid>
+</Window>

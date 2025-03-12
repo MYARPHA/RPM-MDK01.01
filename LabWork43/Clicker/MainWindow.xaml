@@ -1,0 +1,32 @@
+﻿<Window x:Class="Clicker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clicker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="LightGray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="151*"/>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="156*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Label x:Name="timerLabel" Content="Счёт" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"/>
+        <Label x:Name="grandmotherLabel" Content="Бабушка" FontSize="20" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+        <Ellipse Width="150" Height="150" MouseDown="Ellipse_MouseDown"/>
+        
+        <Rectangle x:Name="imageCookie" Width="300" Height="300" Cursor="Hand" MouseDown="ImageCookie_MouseDown">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/1.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Rectangle x:Name="imageGrandmother" Grid.Column="2" Height="300" Width="200" Cursor="Hand" MouseDown="ImageGrandmother_MouseDown">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="2.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+    </Grid>
+</Window>

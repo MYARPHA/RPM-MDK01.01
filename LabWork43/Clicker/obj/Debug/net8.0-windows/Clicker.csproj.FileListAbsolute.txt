@@ -1,0 +1,40 @@
+C:\Temp\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.exe
+C:\Temp\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.deps.json
+C:\Temp\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.runtimeconfig.json
+C:\Temp\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.dll
+C:\Temp\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.pdb
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\App.g.cs
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker_MarkupCompile.cache
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker_MarkupCompile.lref
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.g.resources
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.AssemblyInfoInputs.cache
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.AssemblyInfo.cs
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.dll
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\refint\Clicker.dll
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.pdb
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.genruntimeconfig.cache
+C:\Temp\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\ref\Clicker.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.exe
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.deps.json
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.runtimeconfig.json
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\bin\Debug\net8.0-windows\Clicker.pdb
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker_MarkupCompile.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker_MarkupCompile.lref
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.g.resources
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.AssemblyInfoInputs.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.AssemblyInfo.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\refint\Clicker.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.pdb
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\Clicker.genruntimeconfig.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Clicker\obj\Debug\net8.0-windows\ref\Clicker.dll

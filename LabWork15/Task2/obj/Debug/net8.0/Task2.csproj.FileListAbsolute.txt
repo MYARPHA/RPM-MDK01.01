@@ -1,0 +1,14 @@
+V:\ispp35\LabWork15\Task2\bin\Debug\net8.0\Task2.exe
+V:\ispp35\LabWork15\Task2\bin\Debug\net8.0\Task2.deps.json
+V:\ispp35\LabWork15\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+V:\ispp35\LabWork15\Task2\bin\Debug\net8.0\Task2.dll
+V:\ispp35\LabWork15\Task2\bin\Debug\net8.0\Task2.pdb
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\Task2.dll
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\refint\Task2.dll
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\Task2.pdb
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+V:\ispp35\LabWork15\Task2\obj\Debug\net8.0\ref\Task2.dll

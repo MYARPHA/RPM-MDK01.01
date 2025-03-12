@@ -1,0 +1,40 @@
+C:\Temp\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.exe
+C:\Temp\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.deps.json
+C:\Temp\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.runtimeconfig.json
+C:\Temp\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.dll
+C:\Temp\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.pdb
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\App.g.cs
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter_MarkupCompile.cache
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter_MarkupCompile.lref
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.g.resources
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.AssemblyInfoInputs.cache
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.AssemblyInfo.cs
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.dll
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\refint\Shooter.dll
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.pdb
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.genruntimeconfig.cache
+C:\Temp\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\ref\Shooter.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.exe
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.deps.json
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.runtimeconfig.json
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\bin\Debug\net8.0-windows\Shooter.pdb
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter_MarkupCompile.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter_MarkupCompile.lref
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.g.resources
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.AssemblyInfoInputs.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.AssemblyInfo.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.csproj.CoreCompileInputs.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\refint\Shooter.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.pdb
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\Shooter.genruntimeconfig.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork43\Shooter\obj\Debug\net8.0-windows\ref\Shooter.dll

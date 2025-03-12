@@ -1,0 +1,14 @@
+C:\Temp\ISPP-35\LabWork24\Task3\bin\Debug\net8.0\Task3.exe
+C:\Temp\ISPP-35\LabWork24\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Temp\ISPP-35\LabWork24\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Temp\ISPP-35\LabWork24\Task3\bin\Debug\net8.0\Task3.dll
+C:\Temp\ISPP-35\LabWork24\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\Task3.dll
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Temp\ISPP-35\LabWork24\Task3\obj\Debug\net8.0\ref\Task3.dll

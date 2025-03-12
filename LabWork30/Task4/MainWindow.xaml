@@ -1,0 +1,16 @@
+﻿<Window x:Class="Task4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <TextBox x:Name="TextBox" Height="435" Width="379" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Label Content="Выравнивание текста: " HorizontalAlignment="Left" Canvas.Left="400" VerticalAlignment="Center"/>
+        <RadioButton Content="По левому краю" Canvas.Left="400" Canvas.Top="47" Checked="LeftAlign_Checked"/>
+        <RadioButton Content="По правому краю" Canvas.Left="400" Canvas.Top="67" Checked="RightAlign_Checked"/>
+        <RadioButton Content="По центру" Canvas.Left="400" Canvas.Top="87" Checked="CenterAlign_Checked"/>
+    </Canvas>
+</Window>

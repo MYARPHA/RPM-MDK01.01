@@ -1,0 +1,16 @@
+﻿<Page x:Class="Task1.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Task1.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Главная">
+
+    <StackPanel VerticalAlignment="Center" Width="100">
+        <Button x:Name="AuthorizationButton" Content="Авторизация" Click="AuthorizationButton_Click"/>
+        <Button x:Name="RegistrationButton" Content="Регистрация" Click="RegistrationButton_Click"/>
+        <Button x:Name="SettingsButton" Content="Настройки"/>
+    </StackPanel>
+</Page>

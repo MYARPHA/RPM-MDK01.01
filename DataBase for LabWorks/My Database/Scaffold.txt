@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source = mssql; Initial Catalog = ispp3511; User ID = ispp3511; Password = 3511; Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -ContextDir Data -Context GameStoreContext -Tables Game, Category

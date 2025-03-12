@@ -1,0 +1,40 @@
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\App.g.cs
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel_MarkupCompile.cache
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel_MarkupCompile.lref
+C:\Temp\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.exe
+C:\Temp\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.deps.json
+C:\Temp\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.runtimeconfig.json
+C:\Temp\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.dll
+C:\Temp\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.pdb
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.g.resources
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.AssemblyInfoInputs.cache
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.AssemblyInfo.cs
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.dll
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\refint\Image Carousel.dll
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.pdb
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.genruntimeconfig.cache
+C:\Temp\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\ref\Image Carousel.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.exe
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.deps.json
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.runtimeconfig.json
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\bin\Debug\net8.0-windows\Image Carousel.pdb
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel_MarkupCompile.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel_MarkupCompile.lref
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.g.resources
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.AssemblyInfoInputs.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.AssemblyInfo.cs
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.csproj.CoreCompileInputs.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\refint\Image Carousel.dll
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.pdb
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\Image Carousel.genruntimeconfig.cache
+C:\Users\annfa\OneDrive\Рабочий стол\ISPP-35\LabWork42\Image Carousel\obj\Debug\net8.0-windows\ref\Image Carousel.dll

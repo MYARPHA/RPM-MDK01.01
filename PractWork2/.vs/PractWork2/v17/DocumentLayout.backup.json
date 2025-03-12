@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ISPP35\\PractWork2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D955524-6D23-46C6-B985-C1A64798B797}|DomainLayer\\DomainLayer.csproj|c:\\temp\\ispp35\\practwork2\\domainlayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D955524-6D23-46C6-B985-C1A64798B797}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D955524-6D23-46C6-B985-C1A64798B797}|DomainLayer\\DomainLayer.csproj|c:\\temp\\ispp35\\practwork2\\domainlayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D955524-6D23-46C6-B985-C1A64798B797}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC26C350-2754-4F20-9261-2ECC1D4BDC1E}|PractWork2\\PractWork2.csproj|c:\\temp\\ispp35\\practwork2\\practwork2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC26C350-2754-4F20-9261-2ECC1D4BDC1E}|PractWork2\\PractWork2.csproj|solutionrelative:practwork2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A20267-4403-4DFB-BCB5-D625EE915FCB}|WpfApp1\\WpfApp1.csproj|c:\\temp\\ispp35\\practwork2\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3A20267-4403-4DFB-BCB5-D625EE915FCB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A20267-4403-4DFB-BCB5-D625EE915FCB}|WpfApp1\\WpfApp1.csproj|c:\\temp\\ispp35\\practwork2\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A20267-4403-4DFB-BCB5-D625EE915FCB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1025,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\PractWork2\\DomainLayer\\Category.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Category.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\PractWork2\\DomainLayer\\Category.cs",
+              "RelativeToolTip": "DomainLayer\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:15:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\PractWork2\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\PractWork2\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:16:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\PractWork2\\DomainLayer\\CategoryService.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\CategoryService.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\PractWork2\\DomainLayer\\CategoryService.cs",
+              "RelativeToolTip": "DomainLayer\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:56:04.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\PractWork2\\PractWork2\\Program.cs",
+              "RelativeDocumentMoniker": "PractWork2\\Program.cs",
+              "ToolTip": "C:\\Temp\\ISPP35\\PractWork2\\PractWork2\\Program.cs",
+              "RelativeToolTip": "PractWork2\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:39:11.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ISPP35\\PractWork2\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ISPP35\\PractWork2\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T08:16:40.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1058,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Temp\ISPP35\LabWork14\DBLibrary\bin\Debug\net8.0\DBLibrary.deps.json
+C:\Temp\ISPP35\LabWork14\DBLibrary\bin\Debug\net8.0\DBLibrary.dll
+C:\Temp\ISPP35\LabWork14\DBLibrary\bin\Debug\net8.0\DBLibrary.pdb
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.csproj.AssemblyReference.cache
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.AssemblyInfoInputs.cache
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.AssemblyInfo.cs
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.dll
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\refint\DBLibrary.dll
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\DBLibrary.pdb
+C:\Temp\ISPP35\LabWork14\DBLibrary\obj\Debug\net8.0\ref\DBLibrary.dll

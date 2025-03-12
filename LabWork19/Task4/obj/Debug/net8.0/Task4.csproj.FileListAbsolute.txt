@@ -1,0 +1,28 @@
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\bin\Debug\net8.0\Task4.exe
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\bin\Debug\net8.0\Task4.dll
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\bin\Debug\net8.0\Task4.pdb
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\Task4.dll
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\refint\Task4.dll
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\Task4.pdb
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\Visual Studio Projects\Лабы\LabWork19\Task4\obj\Debug\net8.0\ref\Task4.dll
+V:\ispp35\LabWork19\Task4\bin\Debug\net8.0\Task4.exe
+V:\ispp35\LabWork19\Task4\bin\Debug\net8.0\Task4.deps.json
+V:\ispp35\LabWork19\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+V:\ispp35\LabWork19\Task4\bin\Debug\net8.0\Task4.dll
+V:\ispp35\LabWork19\Task4\bin\Debug\net8.0\Task4.pdb
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\Task4.dll
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\refint\Task4.dll
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\Task4.pdb
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+V:\ispp35\LabWork19\Task4\obj\Debug\net8.0\ref\Task4.dll

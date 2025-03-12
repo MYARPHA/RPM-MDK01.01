@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\ispp35\\LabWork14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E987AB-2D0F-449D-8AA5-2C6B7531F8B8}|Task1\\Task1.csproj|V:\\ispp35\\LabWork14\\task1\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E987AB-2D0F-449D-8AA5-2C6B7531F8B8}|Task1\\Task1.csproj|solutionrelative:task1\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819AFBC-69A3-4B4B-BC73-38BEC43FEA2B}|space\\space.csproj|V:\\ispp35\\LabWork14\\space\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819AFBC-69A3-4B4B-BC73-38BEC43FEA2B}|space\\space.csproj|solutionrelative:space\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AB9E41-6AB7-4AC7-A174-DE6693F920E6}|email\\email.csproj|v:\\ispp35\\labwork14\\email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AB9E41-6AB7-4AC7-A174-DE6693F920E6}|email\\email.csproj|solutionrelative:email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBCB77E-9E1A-4F07-A098-CA0ED4F71553}|Task4\\Task4.csproj|V:\\ispp35\\LabWork14\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBCB77E-9E1A-4F07-A098-CA0ED4F71553}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\ispp35\\LabWork14\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "V:\\ispp35\\LabWork14\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:50:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\ispp35\\LabWork14\\email\\Program.cs",
+              "RelativeDocumentMoniker": "email\\Program.cs",
+              "ToolTip": "V:\\ispp35\\LabWork14\\email\\Program.cs",
+              "RelativeToolTip": "email\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:02:14.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\ispp35\\LabWork14\\space\\Program.cs",
+              "RelativeDocumentMoniker": "space\\Program.cs",
+              "ToolTip": "V:\\ispp35\\LabWork14\\space\\Program.cs",
+              "RelativeToolTip": "space\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:54:54.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "number.cs",
+              "DocumentMoniker": "V:\\ispp35\\LabWork14\\Task1\\number.cs",
+              "RelativeDocumentMoniker": "Task1\\number.cs",
+              "ToolTip": "V:\\ispp35\\LabWork14\\Task1\\number.cs",
+              "RelativeToolTip": "Task1\\number.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:16:05.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

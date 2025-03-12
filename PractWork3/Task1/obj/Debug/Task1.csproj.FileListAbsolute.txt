@@ -1,0 +1,11 @@
+C:\Temp\ISPP-35\PractWork3\Task1\bin\Debug\Task1.exe.config
+C:\Temp\ISPP-35\PractWork3\Task1\bin\Debug\Task1.exe
+C:\Temp\ISPP-35\PractWork3\Task1\bin\Debug\Task1.pdb
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.csproj.ResolveComReference.cache
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.Form1.resources
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.exe
+C:\Temp\ISPP-35\PractWork3\Task1\obj\Debug\Task1.pdb

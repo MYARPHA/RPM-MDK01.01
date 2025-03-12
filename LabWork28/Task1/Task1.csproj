@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>kirby.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\CormorantGaramond-Bold.ttf" />
+    <None Remove="Fonts\CormorantGaramond-BoldItalic.ttf" />
+    <None Remove="Fonts\CormorantGaramond-Italic.ttf" />
+    <None Remove="Fonts\CormorantGaramond-Light.ttf" />
+    <None Remove="Fonts\CormorantGaramond-LightItalic.ttf" />
+    <None Remove="Fonts\CormorantGaramond-Medium.ttf" />
+    <None Remove="Fonts\CormorantGaramond-MediumItalic.ttf" />
+    <None Remove="Fonts\CormorantGaramond-Regular.ttf" />
+    <None Remove="Fonts\CormorantGaramond-SemiBold.ttf" />
+    <None Remove="Fonts\CormorantGaramond-SemiBoldItalic.ttf" />
+    <None Remove="Images\1.jpg" />
+    <None Remove="Images\2.png" />
+    <None Remove="Images\3.jpg" />
+    <None Remove="Images\4.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="kirby.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fonts\CormorantGaramond-Bold.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-BoldItalic.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-Italic.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-Light.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-LightItalic.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-Medium.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-MediumItalic.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-Regular.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-SemiBold.ttf" />
+    <Resource Include="Fonts\CormorantGaramond-SemiBoldItalic.ttf" />
+    <Resource Include="Images\1.jpg" />
+    <Resource Include="Images\2.png" />
+    <Resource Include="Images\3.jpg" />
+    <Resource Include="Images\4.jpg" />
+  </ItemGroup>
+
+</Project>

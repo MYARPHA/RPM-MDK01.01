@@ -1,0 +1,11 @@
+C:\Temp\ISPP-35\PractWork2\Task3\bin\Debug\Task3.exe.config
+C:\Temp\ISPP-35\PractWork2\Task3\bin\Debug\Task3.exe
+C:\Temp\ISPP-35\PractWork2\Task3\bin\Debug\Task3.pdb
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.csproj.ResolveComReference.cache
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.MultiplicationForm.resources
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.exe
+C:\Temp\ISPP-35\PractWork2\Task3\obj\Debug\Task3.pdb

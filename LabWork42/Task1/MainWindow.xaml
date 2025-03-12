@@ -1,0 +1,55 @@
+﻿<Window x:Class="Task1.InkCanvas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="InkCanvas" Height="600" Width="800">
+    <StackPanel>
+        <StackPanel.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White"/>
+                <GradientStop Color="White" Offset="0.003"/>
+                <GradientStop Color="#FFE4CCE4" Offset="0.997"/>
+            </LinearGradientBrush>
+        </StackPanel.Background>
+        <Button Content="Выберите изображение" Click="LoadImage_Click"/>
+        <Image gif:ImageBehavior.AnimatedSource="kirbyGif.gif"/>
+        <Image x:Name="addImage" Stretch="Uniform" Height="200" Width="400"/>
+        <Border BorderBrush="Black" BorderThickness="2">
+            <InkCanvas x:Name="canvas"/>
+        </Border>
+       
+        <Border BorderBrush="Black" BorderThickness="1">
+            <Menu>
+            <!--Стандартные цвета-->
+            <MenuItem x:Name="red" Checked="ChangePenColor" Click="Red_Click" Background="Red"/>
+            <MenuItem x:Name="orange" Checked="ChangePenColor" Click="Orange_Click" Background="Orange"/>
+            <MenuItem x:Name="yellow" Checked="ChangePenColor" Click="Yellow_Click" Background="Yellow"/>
+            <MenuItem x:Name="green" Checked="ChangePenColor" Click="Green_Click" Background="Green"/>
+            <MenuItem x:Name="lightBlue" Checked="ChangePenColor" Click="LightBlue_Click" Background="LightBlue"/>
+            <MenuItem x:Name="darkBlue" Checked="ChangePenColor" Click="DarkBlue_Click" Background="Blue"/>
+            <MenuItem x:Name="purple" Checked="ChangePenColor" Click="Purple_Click" Background="Purple"/>
+            <MenuItem x:Name="black" Checked="ChangePenColor" Click="Black_Click" Background="Black"/>
+            <MenuItem x:Name="white" Checked="ChangePenColor" Click="White_Click" Background="White"/>
+        </Menu>
+        </Border>
+        
+
+        <!--Доп цвета-->
+        <Border BorderBrush="Black" BorderThickness="1">
+            <Menu>
+            <MenuItem x:Name="lightPink" Checked="ChangePenColor" Click="LightPink_Click" Background="LightPink"/>
+            <MenuItem x:Name="lightCayan" Checked="ChangePenColor" Click="LightCayan_Click" Background="LightCyan"/>
+            <MenuItem x:Name="lightSalmon" Checked="ChangePenColor" Click="LightSalmon_Click" Background="LightSalmon"/>
+            <MenuItem x:Name="khaki" Checked="ChangePenColor" Click="Khaki_Click" Background="Khaki"/>
+
+            <!--"+" "-" и прочее-->
+            <MenuItem x:Name="changeThickness" Header="+" Checked="ChangeThickness_Checked" Click="ChangeThickness_Click" RenderTransformOrigin="0.567,0.571"/>
+            <MenuItem x:Name="changeThickness2" Header="-" Checked="ChangeThickness_Checked" Click="ChangeThickness_Click2"/>
+        </Menu>
+        </Border>
+        
+    </StackPanel>
+</Window>

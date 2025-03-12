@@ -1,0 +1,25 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <TextBox Height="434" Width="400" x:Name="TextBox"/>
+        
+        <StackPanel>
+            <Label Content="Размер текста: " Canvas.Left="400" Canvas.Top="-1"/>
+            <RadioButton Content="10" Grid.Column="1" Checked="SizeRadioButton_Checked"/>
+            <RadioButton Content="20" Grid.Column="1" Checked="SizeRadioButton_Checked"/>
+            <RadioButton Content="30" Grid.Column="1" Checked="SizeRadioButton_Checked"/>
+        </StackPanel>
+
+        <StackPanel>
+            <Label Content="Выравнивание текста: "/>
+            <RadioButton Content="По левому краю" Checked="LeftAlign_Checked"/>
+            <RadioButton Content="По правому краю" Checked="RightAlign_Checked"/>
+            <RadioButton Content="По центру" Checked="CenterAlign_Checked"/>
+        </StackPanel>
+    </DockPanel>
+</Window>

@@ -1,0 +1,56 @@
+C:\Temp\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.exe
+C:\Temp\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Temp\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Temp\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.dll
+C:\Temp\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.dll
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Temp\ispp35\LabWork1\Task3\obj\Debug\net8.0\ref\Task3.dll
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.exe
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.dll
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.dll
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Users\posos\Downloads\Telegram Desktop\ispp35\ispp35\LabWork1\Task3\obj\Debug\net8.0\ref\Task3.dll
+V:\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.exe
+V:\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.deps.json
+V:\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+V:\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.dll
+V:\ispp35\LabWork1\Task3\bin\Debug\net8.0\Task3.pdb
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.dll
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\refint\Task3.dll
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.pdb
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+V:\ispp35\LabWork1\Task3\obj\Debug\net8.0\ref\Task3.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\bin\Debug\net8.0\Task3.exe
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\bin\Debug\net8.0\Task3.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\Task3.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork1\Task3\obj\Debug\net8.0\ref\Task3.dll

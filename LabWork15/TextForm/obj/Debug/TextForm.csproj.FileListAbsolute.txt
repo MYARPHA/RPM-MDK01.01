@@ -1,0 +1,11 @@
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.csproj.AssemblyReference.cache
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.TextForm.resources
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.Properties.Resources.resources
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.SearchForm.resources
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.csproj.GenerateResource.cache
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.csproj.CoreCompileInputs.cache
+V:\ispp35\LabWork15\TextForm\bin\Debug\TextForm.exe.config
+V:\ispp35\LabWork15\TextForm\bin\Debug\TextForm.exe
+V:\ispp35\LabWork15\TextForm\bin\Debug\TextForm.pdb
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.exe
+V:\ispp35\LabWork15\TextForm\obj\Debug\TextForm.pdb

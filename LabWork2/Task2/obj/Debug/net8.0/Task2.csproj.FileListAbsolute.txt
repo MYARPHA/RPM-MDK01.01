@@ -1,0 +1,42 @@
+C:\Temp\ispp35\LabWork2\Task2\bin\Debug\net8.0\Task2.exe
+C:\Temp\ispp35\LabWork2\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Temp\ispp35\LabWork2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Temp\ispp35\LabWork2\Task2\bin\Debug\net8.0\Task2.dll
+C:\Temp\ispp35\LabWork2\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\Task2.dll
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Temp\ispp35\LabWork2\Task2\obj\Debug\net8.0\ref\Task2.dll
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\bin\Debug\net8.0\Task2.exe
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\bin\Debug\net8.0\Task2.dll
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\Task2.dll
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Visual Studio Projects\Лабы\LabWork2\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\kompu\OneDrive\Рабочий стол\ISPP-35\LabWork2\Task2\obj\Debug\net8.0\ref\Task2.dll

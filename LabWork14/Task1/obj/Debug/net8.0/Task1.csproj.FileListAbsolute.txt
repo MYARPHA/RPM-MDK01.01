@@ -1,0 +1,14 @@
+V:\ispp35\LabWork14\Task1\bin\Debug\net8.0\Task1.exe
+V:\ispp35\LabWork14\Task1\bin\Debug\net8.0\Task1.deps.json
+V:\ispp35\LabWork14\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+V:\ispp35\LabWork14\Task1\bin\Debug\net8.0\Task1.dll
+V:\ispp35\LabWork14\Task1\bin\Debug\net8.0\Task1.pdb
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\Task1.dll
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\refint\Task1.dll
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\Task1.pdb
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+V:\ispp35\LabWork14\Task1\obj\Debug\net8.0\ref\Task1.dll
